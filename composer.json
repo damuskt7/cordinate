@@ -2,6 +2,7 @@
     "name": "damuskt7/generate-sign",
     "description": "Generate random sign",
     "type": "library",
+    "license":"MIT",
     "require": {
         "php": ">=8.0",
         "guzzlehttp/guzzle": "8.0.x-dev"
